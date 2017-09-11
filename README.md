@@ -10,7 +10,7 @@ C++ library [Eigen](https://eigen.tuxfamily.org) with [emscripten](http://emscri
 sparse matrix library [Suitesparse](http://faculty.cse.tamu.edu/davis/suitesparse.html) to asm.js.
 
 Detailed documentation and unit tests can be found in the docs and tests directories
-of this [repository](https://github.com/rohan-sawhney/linear-algebra-js).
+of this [repository](https://rohan-sawhney.github.io/linear-algebra-js/).
 
 ## Code Snippet
 
