@@ -1,4 +1,4 @@
-# linear-algebra-js
+# About
 
 linear-algebra-js is an optimized linear algebra library in pure Javascript. It supports
 both sparse and dense matrices, with routines to compute the Cholesky, LU, and QR
