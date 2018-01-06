@@ -1,5 +1,5 @@
 <a href="https://rohan-sawhney.github.io/linear-algebra-js/">
-<img src="lajs-logo.png" height="64" width="141.43" align="right" />
+<img src="lajs-logo.png" height="64" width="141.27" align="right" />
 </a>
 
 # About
