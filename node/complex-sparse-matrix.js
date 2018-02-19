@@ -1,6 +1,5 @@
 let Module = require('./linear-algebra-asm.js');
 let memoryManager = require('./emscripten-memory-manager.js');
-let Complex = require('./complex.js');
 let ComplexDenseMatrix = require('./complex-dense-matrix.js');
 
 class ComplexSparseMatrix {
