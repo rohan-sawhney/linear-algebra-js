@@ -6,15 +6,9 @@ let Complex = LinearAlgebra.Complex;
 let DenseMatrix = LinearAlgebra.DenseMatrix;
 let SparseMatrix = LinearAlgebra.SparseMatrix;
 let Triplet = LinearAlgebra.Triplet;
-let Cholesky = LinearAlgebra.Cholesky;
-let LU = LinearAlgebra.LU;
-let QR = LinearAlgebra.QR;
 let ComplexDenseMatrix = LinearAlgebra.ComplexDenseMatrix;
 let ComplexSparseMatrix = LinearAlgebra.ComplexSparseMatrix;
 let ComplexTriplet = LinearAlgebra.ComplexTriplet;
-let ComplexCholesky = LinearAlgebra.ComplexCholesky;
-let ComplexLU = LinearAlgebra.ComplexLU;
-let ComplexQR = LinearAlgebra.ComplexQR;
 
 describe("Vector", function() {
 	let u = new Vector(3, 4, 0);

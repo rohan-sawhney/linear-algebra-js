@@ -426,4 +426,4 @@ class ComplexQR {
 	}
 }
 
-module.exports = [ComplexSparseMatrix, ComplexTriplet, ComplexCholesky, ComplexLU, ComplexQR]
+module.exports = [ComplexSparseMatrix, ComplexTriplet]

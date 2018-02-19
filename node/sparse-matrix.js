@@ -406,4 +406,4 @@ class QR {
 	}
 }
 
-module.exports = [SparseMatrix, Triplet, Cholesky, LU, QR]
+module.exports = [SparseMatrix, Triplet]
